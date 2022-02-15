@@ -1,0 +1,69 @@
+{
+  "classes": [
+    "PERSON",
+    "GPE_ORG",
+    "LOC",
+    "VESSEL",
+    "MONEY",
+    "QUANTITY",
+    "DATE",
+    "GPE",
+    "ORG",
+    "TRIBE"
+  ],
+  "annotations": [
+    [
+      "Mr. James Morley Resident Bushire Sir Since our last letter to you of the 9 Novemb by the Dolphin Schooner, your express boat is arrived with your original letters of 8th and 9th Instant, and a Duplicate of the 24 of October; original of which, has since been received, We have also received your General Books. It is not in our power at present to do any¬ thing in the disputes between Carim Caun and the Shaikhs of Boushire and Bah writing to him just now, we do not imagine would have the least good effect; if are ordered by our Superiors to enter into fresh negociations with the Caun, Bush of course will not be neglected, and untill then, we shall avoid interfering in their any further than what is immediately relative to our own Factory and comme We hope your fears on account the Honble Companys property being plundered in case of an attack at Bushire by the persians prove groundless. You will know our Cruizers are otherwise employed: when the Ormuso expedition is over, should we think it necessary, we will station acco Cruizers at Bushire, as you now seem to think their presence is absolutely nec for the preservation of the Honble Companys effects: there is no probability beginning before Shaik Ice his return from Bahreen, which we do not imagine will be, before our Cruizers return from Ormuso. In our letter by the Dolphin we have to you what is proper regarding your sending us the Woollens we have indented for. Your supplying the managers on the Ormuse Expedition with money and a few peices of Woollens was very proper. Whatever money the Honble Company be indebted to Mr Bonnyear, he has only to draw bills on this Ag for there of it, should not the Cash we have already remitted you pay the amount borrowed of him. We are informed that",
+      {
+        "entities": [
+          [0, 16, "PERSON"],
+          [26, 33, "GPE"],
+          [74, 82, "DATE"],
+          [90, 106, "VESSEL"],
+          [168, 187, "DATE"],
+          [212, 225, "DATE"],
+          [388, 398, "PERSON"],
+          [407, 434, "PERSON"],
+          [793, 808, "ORG"],
+          [858, 865, "GPE"],
+          [873, 881, "TRIBE"],
+          [960, 966, "LOC"],
+          [1050, 1057, "GPE"],
+          [1145, 1160, "ORG"],
+          [1211, 1220, "PERSON"],
+          [1237, 1244, "GPE"],
+          [1311, 1318, "LOC"],
+          [1340, 1347, "VESSEL"],
+          [1474, 1480, "LOC"],
+          [1568, 1582, "ORG"],
+          [1598, 1609, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "account of the sad Catrastrophe; never think about the expense, when so much depends on the early arrival of intelligence at Bombay; to have had an account of the loss received by our Superiors before their Cruizers may have sailed for the Gulph, might have been of the utmost consequences- To convey this melancholy intelligence we now dispatch the Salamander to Bombay; Lieutenant Gages stay at Bushire is limited to four and twenty hours; on no account therefore detain him longer than that time, but as much short of it as possible, we make no doubt but your dispatch for India are all ready, as you must conclude we should dispatch there as soon after the Salamanders arrival at Bussora as possible. We should have you examine Mr Bowye Papers for a Will: if you find one of course you will act in compliance thereto: but if he has died intestate let his perishables be sold, the remainder sealed up, and make application to Bombay for further directions in this manner we act regarding Mr Lyster who has died intestate. It is improper that Bushire should be without two covenanted servants, we have appointed Mr. John Yoakly Botham Wuter to your assistance, who has received his Salary to the 1 of July last and dietmoney to the 31st. of this month_ We are very much pleased that the Persian troops are withdrawn from the Country about Bushire, and hope that your Shaikhs arrival at Schiras will take off every impedement that our trade has long laboured under; - we are very much in want of Cash, and shall be very glad when the State of your Treasury will admit of your consigning us any; when it will, take the first secure conveyance for doing it We again recommend the shortest detention possible of the Salamander, and are",
+      {
+        "entities": [
+          [126, 132, "GPE"],
+          [241, 246, "GPE"],
+          [352, 362, "VESSEL"],
+          [366, 372, "GPE"],
+          [374, 390, "PERSON"],
+          [399, 406, "GPE"],
+          [578, 583, "GPE"],
+          [663, 674, "VESSEL"],
+          [686, 693, "GPE"],
+          [734, 749, "PERSON"],
+          [931, 937, "GPE"],
+          [993, 1002, "PERSON"],
+          [1047, 1054, "GPE"],
+          [1116, 1144, "PERSON"],
+          [1292, 1306, "ORG"],
+          [1344, 1351, "GPE"],
+          [1391, 1398, "GPE"],
+          [1717, 1727, "VESSEL"]
+        ]
+      }
+    ]
+  ]
+}
